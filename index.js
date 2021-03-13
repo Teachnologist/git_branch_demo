@@ -3,3 +3,5 @@ let y = 10;
 let sum = (x + y);
 let product = (x*y);
 let difference = x - y; 
+
+alert("The Product is "+product);
